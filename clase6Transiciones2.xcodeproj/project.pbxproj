@@ -12,6 +12,8 @@
 		FB9F2BC61E4A9D45004D6FAE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FB9F2BC41E4A9D45004D6FAE /* Main.storyboard */; };
 		FB9F2BC81E4A9D45004D6FAE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FB9F2BC71E4A9D45004D6FAE /* Assets.xcassets */; };
 		FB9F2BCB1E4A9D45004D6FAE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FB9F2BC91E4A9D45004D6FAE /* LaunchScreen.storyboard */; };
+		FB9F2BD31E4AA266004D6FAE /* ViewControllerShowDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB9F2BD21E4AA266004D6FAE /* ViewControllerShowDetail.swift */; };
+		FB9F2BD71E4AA76B004D6FAE /* ModallyViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB9F2BD61E4AA76B004D6FAE /* ModallyViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +24,8 @@
 		FB9F2BC71E4A9D45004D6FAE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FB9F2BCA1E4A9D45004D6FAE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		FB9F2BCC1E4A9D45004D6FAE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FB9F2BD21E4AA266004D6FAE /* ViewControllerShowDetail.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewControllerShowDetail.swift; sourceTree = "<group>"; };
+		FB9F2BD61E4AA76B004D6FAE /* ModallyViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ModallyViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +64,8 @@
 				FB9F2BC71E4A9D45004D6FAE /* Assets.xcassets */,
 				FB9F2BC91E4A9D45004D6FAE /* LaunchScreen.storyboard */,
 				FB9F2BCC1E4A9D45004D6FAE /* Info.plist */,
+				FB9F2BD21E4AA266004D6FAE /* ViewControllerShowDetail.swift */,
+				FB9F2BD61E4AA76B004D6FAE /* ModallyViewController.swift */,
 			);
 			path = clase6Transiciones2;
 			sourceTree = "<group>";
@@ -138,6 +144,8 @@
 			files = (
 				FB9F2BC31E4A9D45004D6FAE /* ViewController.swift in Sources */,
 				FB9F2BC11E4A9D45004D6FAE /* AppDelegate.swift in Sources */,
+				FB9F2BD31E4AA266004D6FAE /* ViewControllerShowDetail.swift in Sources */,
+				FB9F2BD71E4AA76B004D6FAE /* ModallyViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
